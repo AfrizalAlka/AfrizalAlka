@@ -6,8 +6,6 @@
 
 ---
 
-<h2 align="center">Hello, I'm Afrizal Wahyu Alkautsar!</h2>
-
 <p align="center">
 	<em>
 		A passionate web developer from Indonesia.<br>
