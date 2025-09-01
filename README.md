@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **AfrizalAlka/AfrizalAlka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,19 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###
+
 <p align="center">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Afrizal+Alka!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
-
----
-
-<p align="center">
-	<img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python"/>
-	<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-	<img src="https://img.shields.io/badge/Tools-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-</p>
-
----
 
 ### 👋 Tentang Saya
 
@@ -35,19 +25,25 @@ Halo! Saya Afrizal Alka, seorang pengembang yang suka belajar hal baru, terutama
 - 🔭 Sedang mengerjakan: Proyek open source & pembelajaran AI
 - 🌱 Sedang belajar: Cloud Computing, Machine Learning
 - 💬 Tanyakan apa saja tentang Python, JavaScript, atau pengembangan web
-- 📫 Email: afrizalalka@gmail.com
+- 📫 Email: afrizal.alkautsar@gmail.com
 
 ---
 
-### 🚀 Skill
-
-<p>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
 ---
 
@@ -60,3 +56,4 @@ Halo! Saya Afrizal Alka, seorang pengembang yang suka belajar hal baru, terutama
 <p align="center">
 	<b>Terima kasih sudah berkunjung! 🚀</b>
 </p>
+
