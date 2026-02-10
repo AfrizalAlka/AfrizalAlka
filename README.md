@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-	<b>🌏 Indonesia | 🎓 7th Semester Student | 💻 Web Engineer</b>
+	<b>🌏 Indonesia | 🎓 8th Semester Student | 💻 Web Engineer</b>
 </p>
 
 <p align="center" style="max-width: 500px; margin: auto;">
