@@ -17,8 +17,6 @@
 
 <p align="center" style="max-width: 500px; margin: auto;">
 	Currently studying at <b>Politeknik Negeri Jember PSDKU Nganjuk</b>.<br>
-	Intern at <b>CV. Purnama Kreatifa</b> as a <b>Fullstack Website Engineer</b>.<br>
-	Working with <b>CodeIgniter 3</b> framework.<br>
 	<i>Always eager to learn, explore, and create impactful digital solutions!</i>
 </p>
 
